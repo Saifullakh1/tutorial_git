@@ -1,3 +1,3 @@
 # tutorial_git
 
-git tutorail for students
+git tutorial for students
